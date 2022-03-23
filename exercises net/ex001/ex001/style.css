@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+table, th, td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: #c7e7f3 ;
+    width: 600px;
+   
+}
+
+#principal{
+    text-align: center;
+    background-color: #0d5188;
+    color: white;
+
+}
+#segundo{
+    background-color: #66c5e3;
+    font-weight: bold;
+
+}
+
+.centralizado{
+    text-align: center;
+    padding: 2px;
+}
+
+.azul{
+    background-color: #c7e7f3;
+}
+
+.cor{
+    color: #0d5188;
+    font-weight: bold;
+}
+
+.cinza{
+    background-color: rgb(155, 155, 155);
+}
+
